@@ -4,7 +4,7 @@ My name is David, I'm from Colombia and I'm a passionate software developer. ❤
 
 
 - Co-Founder & CTO at <a href="https://profile.es" target="blank">IdeasUp</a>. ⚡
-- I’m currently working on <a href="https://profile.es" target="blank">Profile</a> as Software Architect. 👨‍💻
+- I’m currently working on <a href="https://www.inditex.com/itxcomweb/es/home" target="blank">Inditex</a> as Software Architect. 👨‍💻
 
 
 ### Skils
