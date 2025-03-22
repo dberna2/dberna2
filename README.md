@@ -32,6 +32,7 @@ My name is David, I'm from Colombia and I'm a passionate software developer. ❤
 - <a href="https://medium.com/@leo.bernal1946" target="blank">medium</a>
 - <a href="https://twitter.com/bernal1946" target="blank">twitter</a>
 
+---
 <div>
   <a href="https://github.com/dberna2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dberna2&layout=compact&langs_count=7&theme=dracula"/>
