@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: Latest Medium posts
 on:
   schedule:
     - cron: '0 0 */15 * *' #Runs every two weeks
