@@ -20,8 +20,8 @@ My name is David, I'm from Colombia and I'm a passionate software developer. ❤
 <!-- MEDIUM-POSS-LIST:START-->
 - [Cómo hacer cumplir los acuerdos con GitHub Actions y ReviewDog](https://medium.com/@leo.bernal1946/c%C3%B3mo-hacer-cumplir-los-acuerdos-con-github-actions-y-reviewdog-60ba7574dbf0?source=rss-5bd223858283------2)
 - [Spring Cloud Stream y RabbitMQ](https://medium.com/@leo.bernal1946/spring-cloud-stream-y-rabbitmq-4c9bf282d240?source=rss-5bd223858283------2)
-- [Spring Boot Starter](https://medium.com/@leo.bernal1946/spring-boot-starter-794ce43d055f?source=rss-5bd223858283------2)
-- [Spring Rest Docs](https://medium.com/@leo.bernal1946/spring-rest-docs-a6c48b4a2f3e?source=rss-5bd223858283------2)
+- [Crea tu propio starter con Spring Boot](https://medium.com/@leo.bernal1946/spring-boot-starter-794ce43d055f?source=rss-5bd223858283------2)
+- [Documentar APIs usando Spring Rest Docs](https://medium.com/@leo.bernal1946/spring-rest-docs-a6c48b4a2f3e?source=rss-5bd223858283------2)
 <!-- MEDIUM-POSS-LIST:END-->
 
 ---
