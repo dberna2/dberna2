@@ -13,6 +13,10 @@ My name is David, I'm from Colombia and I'm a passionate software developer. ❤
 - AWS, Docker, all the cloud stuff :)
 - Critical thinking, decision-making and problem solving skills
 
+### Last posts
+<!-- MEDIUM-POSS-LIST:START-->
+
+<!-- MEDIUM-POSS-LIST:END-->
 ### Networs
 
 - <a href="david-leonardo-bernal-8968a060" target="blank">linkedin</a>
